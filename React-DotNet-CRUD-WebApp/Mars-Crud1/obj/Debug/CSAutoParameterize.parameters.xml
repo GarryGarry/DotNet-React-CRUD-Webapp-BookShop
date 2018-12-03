@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="CRUDEntitiesContext-Web.config Connection String" description="CRUDEntitiesContext Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=tcp:crudserverdb.database.windows.net,1433;initial catalog=crud;persist security info=True;user id=tej451987@gmail.com@crudserverdb;password=Kulwinder87;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\sarbjit\\source\\repos\\Mars-Crud1\\Mars-Crud1\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CRUDEntitiesContext']/@connectionString" />
+  </parameter>
+</parameters>
